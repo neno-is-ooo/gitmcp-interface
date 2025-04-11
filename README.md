@@ -2,7 +2,7 @@
 
 A quick tool to convert GitHub URLs to GitMCP endpoints. This tool allows you to easily generate MCP (Model Context Protocol) endpoints from GitHub repositories, pages, or user/organization URLs.
 
-🔗 **Live Demo**: [https://neno-is-ooo.github.io/gitmcp-interface/](https://neno-is-ooo.github.io/gitmcp-interface/)
+🔗 **Live here**: [https://neno-is-ooo.github.io/gitmcp-interface/](https://neno-is-ooo.github.io/gitmcp-interface/)
 
 ## About
 
